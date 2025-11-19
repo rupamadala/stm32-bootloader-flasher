@@ -53,3 +53,44 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Build folders
+Debug/
+Release/
+build/
+
+# STM32CubeIDE project settings
+.settings/
+*.launch
+*.log
+*.temp
+*.mxproject
+*.ioc
+
+# Compiled files
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+env/
+venv/
+
+# Backup and temp
+*.swp
+*.bak
+*.tmp
+
+
